@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="it">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Natura World | Renewable Trade</title>
+<meta name="description" content="Natura World connects global buyers and sellers of
+renewable materials.">
+<script src="https://cdn.tailwindcss.com"></script>
+<style>
+body { font-family: Inter, sans-serif; background:#f7f9fc }
+.text-natura-green{color:#16a34a}
+.bg-natura-green{background:#16a34a}
+</style>
+</head>
+<body class="text-gray-800">
+<!-- HEADER -->
+<header class="bg-white shadow fixed w-full z-50">
+<div class="max-w-7xl mx-auto px-4 py-4 flex justify-between items-center">
+<div class="text-2xl font-bold text-natura-green">NATURA <span class="font-light
+text-gray-600">World</span></div>
+<nav class="hidden md:flex gap-6 font-semibold text-gray-600">
+<a href="#about">Essenza</a>
+<a href="#services">Servizi</a>
+<a href="#contact" class="bg-natura-green text-white px-4 py-2
+rounded-full">Contatti</a>
+</nav>
+</div>
+</header>
+<!-- HERO -->
+<section class="h-screen flex items-center justify-center text-center text-white relative">
+<img
+src="https://images.unsplash.com/photo-1473448912268-2022ce9509d8?q=80&w=2400"
+class="absolute inset-0 w-full h-full object-cover opacity-40">
+<div class="relative z-10 max-w-3xl px-6">
+<h1 class="text-5xl md:text-6xl font-extrabold mb-6">
+Il <span class="text-natura-green">TRADE ESSENZIALE</span><br>per il Futuro del
+Pianeta
+</h1>
+<p class="text-xl mb-8">
+Connettiamo venditori e acquirenti globali nel commercio di materiali rinnovabili.
+</p>
+<a href="#contact" class="bg-natura-green px-8 py-4 rounded-full font-bold">
